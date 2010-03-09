@@ -1,6 +1,5 @@
-===
-
-===一、安装UCenter（如果你已经有已运行的UCenter用户中心系统，请跳过此步骤。）===
+#labels Featured
+一、安装UCenter（如果你已经有已运行的UCenter用户中心系统，请跳过此步骤。）
 
 1. 访问http://www.comsenz.com/downloads/install/ucenter 下载最新版本的UCenter简体UTF8版本
 
@@ -11,7 +10,7 @@
 4. 安装完成。
 
 
-===二、在UCenter中增加新应用===
+二、在UCenter中增加新应用
 
 1. 登录你的UCenter管理中心，进入“应用管理”，点击“添加新应用”。
 
@@ -30,7 +29,7 @@
 4. 成功添加了应用后，就可以开始进入WinBlog的安装了。
 
 
-===三、安装WinBlog===
+三、安装WinBlog
 
 1. 将全部文件上传到FTP上。
 
