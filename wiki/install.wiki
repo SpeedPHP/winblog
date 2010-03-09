@@ -1,3 +1,5 @@
+===
+
 ===一、安装UCenter（如果你已经有已运行的UCenter用户中心系统，请跳过此步骤。）===
 
 1. 访问http://www.comsenz.com/downloads/install/ucenter 下载最新版本的UCenter简体UTF8版本
