@@ -1,0 +1,15 @@
+#这里是WinBlog的bug记录
+
+= 目前待修复的问题 =
+
+  * 考虑是否删除登录的ref，来源地址方法
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+
+= 目前已修复的问题 =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
